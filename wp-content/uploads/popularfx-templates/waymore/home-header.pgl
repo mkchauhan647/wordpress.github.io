@@ -1,0 +1,35 @@
+[pl_row pagelayer-id="NyKaT6WzymRWL2SC"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="20px,0px,20px,0px" overlay_type="color" overlay_transperancy="0.7" overlay_color="#000000ff" ele_bg_img="{{theme_url}}/images/header-bg1.jpg"]
+[pl_col pagelayer-id="Xg64aeRWAh5njwou"  widget_space="15" overlay_hover_delay="400"]
+[pl_inner_row pagelayer-id="ZcnXDm52ETmg5dQf"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="jSqyfOPEATB6dj8T"  widget_space="15" overlay_hover_delay="400" col_width="30" col_width_mobile="70" col_width_tablet="40" content_pos="center"]
+[pl_wp_title pagelayer-id="n45ZOGtYAq6gppYm"  site_name="Waymore" site_title_state="normal" text-align="left" site_title_style="Montserrat,30,,600,,,Solid,,Uppercase,," title_color="#ffffffff" text-align_mobile="left" title_padding_mobile="0,0,0,0"]
+[/pl_wp_title]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="nDT2U0ggHgnYOa9o"  widget_space="15" overlay_hover_delay="400" col_width="70" col_width_mobile="25" col_width_tablet="60"]
+[pl_wp_menu pagelayer-id="xbSS0LcQAfV58gUV"  nav_list="158" align="right" layout="horizontal" pointer="" m_animation="slide" list_style="none" submenu_ind="caret-down" menu_bg_color_hover="" menu_bg_color_active="" horizontal_padding="20" vertical_padding="10" submenu_color="#ffffff" submenu_bg_color="#0986c0" submenu_horizontal_padding="10" submenu_vertical_padding="10" submenu_left_margin="10" menu_toggle_align="center" menu_toggle_bg_color="#ea3a60ff" menu_toggle_size="30" slide_style="pagelayer-wp_menu-right" menu_width="30" menu_items_width="100" menu_posy="8" menu_bg="color" close_size="25" close_padding="8" close_color="#ffffff68" close_bg_color="#00000036" close_hover_delay="600" close_color_hover="#ffffff" close_bg_color_hover="#000000" submenu_position="left" menu_items_bg="#000000ff" menu_color="#ffffffff" menu_typo="Poppins,16,,500,,,Solid,,Uppercase,," menu_color_hover="#ea3a60ff" menu_color_active="#ea3a60ff" drop_breakpoint="tablet" menu_toggle_size_tablet="20" menu_toggle_padding_tablet="10" menu_toggle_align_tablet="right" menu_width_tablet="40" menu_toggle_size_mobile="20" menu_toggle_padding_mobile="10" menu_width_mobile="50" menu_posy_mobile="10" menu_toggle_align_mobile="right" vertical_padding_mobile="15" ele_css="{{element}}  .pagelayer-wp_menu-ul .menu-item a {
+    justify-content: center;}"]
+[/pl_wp_menu]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="DDao8yTNmTkauJ8G"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="100px,0px,100px,0px"]
+[pl_inner_col pagelayer-id="WjNJSIv4x11P2RTq"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_heading pagelayer-id="UBa196BSTMim3h7u"  heading_state="normal" color="#ffffffff" align="left" heading_typo="Montserrat,36,,500,,,Solid,1.2,Uppercase,," animation="fadeInDown" animation_delay="600"]
+
+
+
+Explore The World of Business[/pl_heading]
+[pl_divider pagelayer-id="ZNsG3rplUO0McM5p"  divider_style="solid" divider_color="#ea3a60ff" divider_weight="3" divider_widht="16" divider_gap="10" divider_alignment="left" divider_widht_tablet="10" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_text pagelayer-id="VKuDpl58HrC7f0Tf"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; color:#ffffff; font-wight:400; line-height:1.8;}" ele_margin="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+<p style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum.</p>[/pl_text]
+[pl_btn pagelayer-id="x6d4ZEehKkT21geg"  text="Read More" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_custom_size="25" btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" btn_bg_color="#ea3a60ff" btn_color="#ffffff" btn_bg_color_hover="#00ff72" btn_typo="Poppins,16,,500,,,Solid,,,," animation="zoomIn" animation_delay="600"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="L2UillM14HcSLW0F"  widget_space="15" overlay_hover_delay="400" col="6"]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
